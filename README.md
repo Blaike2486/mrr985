@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrr985
+- 👋 Hi, 我是个人
 - 👀 I’m interested in swimming
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on something but I don't know
